@@ -1,0 +1,92 @@
+.square 
+{
+width: 80px;
+height: 80px;
+border: solid 5px #ffffff;
+border-radius: 20px 0;
+float: left;
+margin-right: 10px;
+margin-bottom: 25px;  
+}
+
+p{
+color : #ffffff;
+;
+}
+
+h1{
+color : #ffffff;
+;
+}
+
+h2{
+color : #ffffff;
+;
+}
+
+h3{
+color : #ffffff;
+}
+
+ul{color : #ffffff;}
+
+.css1 { 
+color : #b3e5fc;
+letter-spacing: 5px; }
+
+
+.css2 
+{
+margin-top: 25px;
+}
+
+.box1 
+{
+background-color:#008000;
+margin-bottom: -16px;
+}
+
+.box2
+{
+background-color:#0000ff;
+margin-left: 500px;
+margin-right: 500px;
+padding-left: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+.box3 
+{
+background-color:#008000;
+margin-top: -18px;
+}
+
+.s
+{
+text-align: center;
+color: #ff0000;
+}
+
+table 
+{
+border: solid 1px #ffffff;
+border-spacing: 5px;
+margin-right: 20px;
+}
+
+td 
+{
+width: 30px;
+height: 30px;
+border: solid 0.5px #ffffff;
+text-align: center;
+vertical-align: bottom;
+}
+
+aside 
+{
+float: right;
+text-align: right;
+}
+       
